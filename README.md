@@ -48,7 +48,7 @@ Before starting the challenge, I had been centering content horizontally but I h
 
 ### Continued development
 
-I would like to learn more about media queries and how to make the transition between different devices smoother and to work on making my css as concise as possible.
+I would like to learn more about media queries and how to make the transition between different devices smoother and to work on making my CSS as concise as possible.
 
 
 ## Author
