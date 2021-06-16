@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/mobile-first-3card-component-solution-css-flexbox-S4qlxZYvI)
 - Live Site URL: [Github Pages](https://nickil13.github.io/FEM-3cards/)
 
 ## My process
