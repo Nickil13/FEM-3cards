@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://nickil13.github.io/FEM-3cards/)
+- Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
+- Live Site URL: [Github Pages](https://nickil13.github.io/FEM-3cards/)
 
 ## My process
 
